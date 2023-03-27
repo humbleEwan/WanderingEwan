@@ -1,0 +1,14 @@
+.main-canvas {
+    margin: 20px;
+    border: 1px solid black;
+  }
+
+  .preload-images {
+    overflow: hidden;
+    height: 0;
+  }
+  
+  @font-face {
+    font-family: "Pixels";
+    src: url("../font/pixboy.ttf") format("truetype");
+  }
