@@ -9,4 +9,4 @@ This project is a simple 2D game that runs in the browser. You can go around 100
 ## Features
 * Random generation using a cellular automaton
 * Different battle screen in combat
-* A 'render egnine' which I have used to make the project easier to complete.
+* A 'render engine' which I have used to make the project easier to complete.
